@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1_twNUvz-Y2VdoJuwNZsxx_idimtKSEQ4
 """
 
-!pip install streamlit
-!pip install streamlit_option_menu
-
 # -*- coding: utf-8 -*-
 """
 Created on Sun May 22 11:53:51 2022
